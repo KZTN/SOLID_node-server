@@ -16,3 +16,13 @@ When the developer builds a software follow the bad design, the code can become 
 It takes some time to understand, but if you write code following the principles it will improve code quality and will help to understand the most well-designed software.
 
 To understand SOLID principles, you have to know the use of the interface clearly. If your concept is not clear about interface then you can read this [doc](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837).
+
+<b>S</b>OLID
+<br/>
+S<b>O</b>LID
+<br/>
+SO<b>L</b>ID
+<br/>
+SOL<b>I</b>D
+<br/>
+SOLI<b>D</b>
