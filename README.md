@@ -1,3 +1,4 @@
+
 # SOLID_node-server
 
 ### About this repo:
@@ -17,24 +18,31 @@ It takes some time to understand, but if you write code following the principles
 
 To understand SOLID principles, you have to know the use of the interface clearly. If your concept is not clear about interface then you can read this [doc](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837).
 
-<b>S</b>OLID
-## Single Responsibility Principle :
+<p align="center"><b>S</b>OLID</p>
+### Single Responsibility Principle :
 >A class should have one, and only one, reason to change.
-S<b>O</b>LID
-## Open-closed Principle :
+
+<p align="center">S<b>O</b>LID</p>
+### Open-closed Principle :
 >Entities should be open for extension, but closed for modification.
-SO<b>L</b>ID
-## Liskov Substitution Principle :
+
+<p align="center">SO<b>L</b>ID</p>
+
+### Liskov Substitution Principle :
 The Liskov Substitution principle was introduced by Barbara Liskov in her conference 
 keynote "Data abstraction" in 1987.Barbara Liskov and Jeannette Wing formulated 
 the principle succinctly in a 1994 paper as follows:
 >Let φ(x) be a property provable about objects x of type T. Then φ(y) should be true for objects y of type S where S is a subtype of T.
-SOL<b>I</b>D
-## Interface Segregation Principle :
+
+<p align="center">SOL<b>I</b>D</p>
+
+### Interface Segregation Principle :
 
 >A Client should not be forced to implement an interface that it doesn't use.
-SOLI<b>D</b>
-## Dependency Inversion Principle :
+
+<p align="center">SOLI<b>D</b></p>
+
+### Dependency Inversion Principle :
 
 > High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
