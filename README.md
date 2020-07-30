@@ -19,10 +19,12 @@ It takes some time to understand, but if you write code following the principles
 To understand SOLID principles, you have to know the use of the interface clearly. If your concept is not clear about interface then you can read this [doc](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837).
 
 <p align="center"><b>S</b>OLID</p>
+
 ### Single Responsibility Principle :
 >A class should have one, and only one, reason to change.
 
 <p align="center">S<b>O</b>LID</p>
+
 ### Open-closed Principle :
 >Entities should be open for extension, but closed for modification.
 
