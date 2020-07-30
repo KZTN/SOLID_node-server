@@ -18,11 +18,24 @@ It takes some time to understand, but if you write code following the principles
 To understand SOLID principles, you have to know the use of the interface clearly. If your concept is not clear about interface then you can read this [doc](https://medium.com/better-programming/understanding-use-of-interface-and-abstract-class-9a82f5f15837).
 
 <b>S</b>OLID
-<br/>
+## Single Responsibility Principle :
+>A class should have one, and only one, reason to change.
 S<b>O</b>LID
-<br/>
+## Open-closed Principle :
+>Entities should be open for extension, but closed for modification.
 SO<b>L</b>ID
-<br/>
+## Liskov Substitution Principle :
+The Liskov Substitution principle was introduced by Barbara Liskov in her conference 
+keynote "Data abstraction" in 1987.Barbara Liskov and Jeannette Wing formulated 
+the principle succinctly in a 1994 paper as follows:
+>Let φ(x) be a property provable about objects x of type T. Then φ(y) should be true for objects y of type S where S is a subtype of T.
 SOL<b>I</b>D
-<br/>
+## Interface Segregation Principle :
+
+>A Client should not be forced to implement an interface that it doesn't use.
 SOLI<b>D</b>
+## Dependency Inversion Principle :
+
+> High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+> Abstractions should not depend on details. Details should depend on abstractions.
